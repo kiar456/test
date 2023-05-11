@@ -1,1 +1,14 @@
-# test
+# README #
+Este es un repositorio de...
+
+### NOMBRE Y APELLIDO ###
+KIARA RAMOS
+
+### MATERIA ###
+TALLER DE INGENIERIA DE SOFTWARE
+
+### CURSO ###
+7º2º
+
+### COLEGIO ###
+COLEGIO TECNICO PROVINCIAL "OLGA B. DE ARKO"
