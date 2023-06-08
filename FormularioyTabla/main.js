@@ -11,6 +11,9 @@ function eliminar(){
         nota.remove();
     }
     notasForm[0].value = "";
+    if(){
+   alert('hola mundooo')
+    }
 }
 
 function agregarNota(){
@@ -112,14 +115,4 @@ En Windows/Linux: Selecciona la línea y presiona Ctrl + /.
 
 Comentar múltiples líneas de código:
 
-En Windows/Linux: Selecciona las líneas y presiona Shift + Alt + A.
-*/
-
-
-
-
-
-
-
-
-
+En Windows/Linux: Selecciona las líneas y presiona Shift + Alt + A. */

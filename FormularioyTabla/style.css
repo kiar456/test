@@ -120,7 +120,7 @@ img{
     background: linear-gradient(0deg, rgba(56,54,154,1) 0%, rgba(14,204,175,1) 100%);
     color: white;
     font-family: 'Oswald', sans-serif;
-    border: 2px solid white;
+    border: 2px solid red;
     border-radius: 5px;;
 }
 .boton:hover{
